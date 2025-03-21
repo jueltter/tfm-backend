@@ -1,4 +1,4 @@
-package org.example.tfmbackend;
+package ec.dev.samagua.tfmbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

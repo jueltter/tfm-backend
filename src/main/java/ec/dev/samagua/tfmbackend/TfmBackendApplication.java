@@ -1,4 +1,4 @@
-package org.example.tfmbackend;
+package ec.dev.samagua.tfmbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
